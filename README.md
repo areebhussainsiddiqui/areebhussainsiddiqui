@@ -8,7 +8,6 @@
 
 - 📍 **Location**: Karachi, Pakistan
 - 📫 **Email**: asiddiqui699@gmail.com
-- 🌐 **Upwork**: [Upwork Profile](https://www.upwork.com/freelancers/~0176fa5c36cd91267)
 - 👔 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/asiddiqui699)
 
 ---
