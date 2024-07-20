@@ -1,4 +1,4 @@
-![Header](https://github.com/areebhussainsiddiqui/areebhussainsiddiqui/blob/main/assets/header.png)
+![Header](https://github.com/areebhussainsiddiqui/areebhussainsiddiqui/blob/main/banner.png)
 
 ### Hi there 👋, I'm Areeb Hussain Siddiqui
 
