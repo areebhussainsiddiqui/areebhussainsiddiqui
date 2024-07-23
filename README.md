@@ -9,7 +9,7 @@
 - 📍 **Location**: Karachi, Pakistan
 - 📫 **Email**: asiddiqui699@gmail.com
 - 👔 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/asiddiqui699)
-
+- 🌐 **Upwork**: [Upwork Profile](https://www.upwork.com/freelancers/areebhussain2)
 ---
 
 ### 🔧 Technologies & Tools
