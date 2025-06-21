@@ -39,9 +39,8 @@
 
 
 #### 📱 Android/iOS Apps
-- [**Notes App**](https://github.com/areebhussainsiddiqui/NotesApp) - MVVM architecture, Navigation graph (with arguments), Room DB, Coroutines  
-- [**Task App**](https://github.com/areebhussainsiddiqui/TaskApp) - Task manager with MVVM, Data-binding, LiveData, Room, Kotlin Coroutines  
 - [**Hello Hilt**](https://github.com/areebhussainsiddiqui/HelloHilt) - Basic Android project to learn Hilt dependency injection
+- [**Notes App**](https://github.com/areebhussainsiddiqui/Notes-App) - MVVM architecture, Navigation graph (with arguments), Room DB, Coroutines  
 - [**English-Master**](https://github.com/areebhussainsiddiqui/English-Master) - English Learning App
 - [**Food-Ordering-Android-App**](https://github.com/areebhussainsiddiqui/Food-Ordering-Android-App) - Food Ordering System
 - [**SportsRunningApp**](https://github.com/areebhussainsiddiqui/SportsRunningApp) - Sports Running App
