@@ -35,8 +35,7 @@
 ### 📂 Projects
 
 #### 🧩 Published Library
-- [**EasyMediaHelper**](https://github.com/areebhussainsiddiqui/EasyMediaHelper) - A lightweight Android library to easily pick images/videos from camera or gallery using modern Activity Result API
-
+- [**EasyMediaHelper**](https://github.com/areebhussainsiddiqui/EasyMediaHelper) -EasyMediaHelper is a lightweight Android library designed to simplify access to media such as camera, video, and file browsing functionalities. This library capture media i.e (Picture and Video), and file browsing seamlessly.
 
 #### 📱 Android/iOS Apps
 - [**Hello Hilt**](https://github.com/areebhussainsiddiqui/HelloHilt) - Basic Android project to learn Hilt dependency injection
