@@ -38,6 +38,7 @@
 - [**EasyMediaHelper**](https://github.com/areebhussainsiddiqui/EasyMediaHelper) -EasyMediaHelper is a lightweight Android library designed to simplify access to media such as camera, video, and file browsing functionalities. This library capture media i.e (Picture and Video), and file browsing seamlessly.
 
 #### 📱 Android/iOS Apps
+- [**The Post App**](https://github.com/areebhussainsiddiqui/The-Post-App) - Android project to learn  MVVM ,Hilt dependency injection ,Retrofit , Coroutines and RecyclerView Diff-Utils
 - [**Hello Hilt**](https://github.com/areebhussainsiddiqui/HelloHilt) - Basic Android project to learn Hilt dependency injection
 - [**Notes App**](https://github.com/areebhussainsiddiqui/Notes-App) - MVVM architecture, Navigation graph (with arguments), Room DB, Coroutines  
 - [**English-Master**](https://github.com/areebhussainsiddiqui/English-Master) - English Learning App
