@@ -52,7 +52,7 @@
 
 ### 📈 GitHub Stats
 
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=areebhussainsiddiqui&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
+![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=areebhussainsiddiqui&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebhussainsiddiqui&layout=compact&theme=radical)
 
 ---
